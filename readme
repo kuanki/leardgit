@@ -9,4 +9,10 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 
+<<<<<<< HEAD
 add merge
+=======
+111
+
+origin/dev
+>>>>>>> f77b32a003c1f681a6c9998fd83294f75441d87d
